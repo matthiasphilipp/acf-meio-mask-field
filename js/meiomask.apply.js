@@ -1,5 +1,5 @@
 jQuery(function($) {
-		/*
+	/*
 	*  acf/setup_fields
 	*
 	*  This event is triggered when ACF adds any new elements to the DOM. 
